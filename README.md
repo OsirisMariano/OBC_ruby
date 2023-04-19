@@ -1,8 +1,7 @@
-
-
+![](img/capa-curso-ruby.png)
 ## Curso Ruby Puro OneBitCode
 - [X] Introdução ao Ruby
-- [] Conceitos Básicos
+- [X] Conceitos Básicos
 - [] Estruturas de Controle
 - [] Collections
 - [] Métodos e Gems
