@@ -3,7 +3,7 @@
 - [X] Introdução ao Ruby
 - [X] Conceitos Básicos
 - [X] Estruturas de Controle
-- [] Collections
+- [X] Collections
 - [] Métodos e Gems
 - [] Programação Orientada a Objetos I 
 - [] Programação Orientada a Objetos II
