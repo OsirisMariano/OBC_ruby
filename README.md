@@ -2,7 +2,7 @@
 ## Curso Ruby Puro OneBitCode
 - [X] Introdução ao Ruby
 - [X] Conceitos Básicos
-- [] Estruturas de Controle
+- [X] Estruturas de Controle
 - [] Collections
 - [] Métodos e Gems
 - [] Programação Orientada a Objetos I 
