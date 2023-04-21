@@ -4,7 +4,7 @@
 - [X] Conceitos Básicos
 - [X] Estruturas de Controle
 - [X] Collections
-- [] Métodos e Gems
+- [X] Métodos e Gems
 - [] Programação Orientada a Objetos I 
 - [] Programação Orientada a Objetos II
 - [] Ruby Avançado I
