@@ -5,7 +5,7 @@
 - [X] Estruturas de Controle
 - [X] Collections
 - [X] Métodos e Gems
-- [] Programação Orientada a Objetos I 
+- [X] Programação Orientada a Objetos I 
 - [] Programação Orientada a Objetos II
 - [] Ruby Avançado I
 - [] Ruby Avançado II
