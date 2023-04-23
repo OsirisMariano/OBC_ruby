@@ -3,7 +3,7 @@ array = []
 i = 1
 1..3.times do
   print "Digite o #{i}º número: "
-  arry.push gets.chomp.to_i
+  array.push gets.chomp.to_i
 
   i + 1
 end
