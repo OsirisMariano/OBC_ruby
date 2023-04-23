@@ -6,7 +6,7 @@
 - [X] Collections
 - [X] Métodos e Gems
 - [X] Programação Orientada a Objetos I 
-- [] Programação Orientada a Objetos II
+- [X] Programação Orientada a Objetos II
 - [] Ruby Avançado I
 - [] Ruby Avançado II
 - [] Projeto Final
