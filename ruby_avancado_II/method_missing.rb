@@ -10,4 +10,4 @@ end
 
 fish = Fish.new
 fish.swim
-fish.walk
+fish.walk 
